@@ -1,0 +1,16 @@
+{
+  "name": "virtuum-cloud",
+  "version": "1.0.0",
+  "description": "**Virtuum Cloud** is a decentralized, privacy-first cloud storage solution built on top of IPFS. The goal is to create a system where users are the sole owners of their data, with no third party, not even Virtuum Cloud, having control or access. Inspired by the structure of Bitcoin, Virtuum Cloud leverages encryption and decentralized technologies to ensure true data ownership and censorship resistance.",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "keywords": [],
+  "type": "module",
+  "author": "",
+  "license": "ISC",
+  "dependencies": {
+    "ipfs-http-client": "^60.0.1"
+  }
+}
